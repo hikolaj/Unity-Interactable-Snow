@@ -65,6 +65,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _DeformSnowOnATerrain_6046f8cb12994fe192071da644ad6093_Texture2Dd193c7f652024c0da555d60d30319b28_1475382442:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _DetailMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -125,6 +129,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_eac881f1698b4a348fa27aa60c7fb2c5_Out_0:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _ThicknessMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -148,11 +156,13 @@ Material:
     m_Floats:
     - Boolean_eabc4e431e964c55987ed55bbeaa25ac: 0
     - DiffusionProfile_ddad268da9a740738bff1ce27d78444a: 2.0236452
+    - Vector1_173ee3b1764d417bb1917bb61da3a029: 4
     - Vector1_1b60fea3a6244c8dbe5f4f275c1e5379: 0.5
     - Vector1_27d9f495efae4943a7d76ba76aebb1db: 0
     - Vector1_2d7d8ae9ad874ca1ad9432430a16d02d: 5
-    - Vector1_45d5ddbe96b94904a35ba2056a9d7291: 1.75
+    - Vector1_45d5ddbe96b94904a35ba2056a9d7291: 2
     - Vector1_53f42228d8864121b0947258d3952879: 1
+    - Vector1_5d3714444a0042f288a2e0246a1a5b4c: 0.1
     - Vector1_6be9e8a7e62e41bfbe687f71fefdaafc: 1
     - Vector1_7e5325fc14df4d74b49e78a407d09e41: 0
     - Vector1_89215329cdaf420f9996ae26869268bb: 0
@@ -163,8 +173,9 @@ Material:
     - Vector1_bd0a40423f5b47a2b0756f3f5987bc38: 4.4
     - Vector1_c7dd95d25cd448ceaf78e745f2ca5d2e: 1
     - Vector1_c7dd95d25cd448ceaf78e745f2ca5d2e_1: 1
-    - Vector1_cb09fb52607a42bf9aecea92d3079887: 0.1
-    - Vector1_cb09fb52607a42bf9aecea92d3079887_1: 0.4
+    - Vector1_cb09fb52607a42bf9aecea92d3079887: 0.001
+    - Vector1_cb09fb52607a42bf9aecea92d3079887_1: 0.04
+    - Vector1_e3c74254e8b6423a8500767358c58b70: 0.1
     - Vector1_e43b619a804c46189b344b4c7135e823: 4.4
     - Vector1_edf3e75253d54efca0aa6c55cc14a25f: 0.7
     - _AORemapMax: 1
@@ -301,6 +312,8 @@ Material:
     - DiffusionProfile_ddad268da9a740738bff1ce27d78444a_Asset: {r: -2.941012e-10, g: 0.00000018309717, b: 1.0179367e-22, a: -3.5388274}
     - ShadowOffset: {r: 0, g: 0, b: 0, a: 0}
     - Vector2_56fa2366384641a7b07fad302d8d6b06: {r: 0, g: 0.5, b: 0, a: 0}
+    - Vector3_d4a2edd9e8934a968d9bb4367d7f5372: {r: -2.46, g: 1, b: 0, a: 0}
+    - Vector3_e0d8c2ef2ed648b98f368ef841292fc9: {r: 0, g: 0, b: 0, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _BaseColorMap_MipInfo: {r: 0, g: 0, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}

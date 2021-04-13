@@ -238,7 +238,7 @@ MonoBehaviour:
   calculateEngine: {fileID: 7200000, guid: 136f4cce3dd81c84ba76d115f15d595c, type: 3}
   cameraInput: {fileID: 8400000, guid: 299dbaf943e42f54aa9a6fedab2f7070, type: 2}
   snowMaterial: {fileID: 2100000, guid: c9642541043d40044990e12d12668516, type: 2}
-  recoveryTime: 0.001
+  recoveryTime: 0.005
   RTexture: []
 --- !u!1001 &3088247917486436567
 PrefabInstance:

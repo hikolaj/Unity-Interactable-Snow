@@ -441,3 +441,179 @@ Received Import Request.
 Start importing Assets/InteractiveSnow/Shaders/NormalCalcTest.shadergraph using Guid(05c4eae0fe335574693efca27cf2c042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33ef7b06e42a125608d510756a2ac989') in 0.005744 seconds
   Import took 0.012469 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 585.999903 seconds.
+  path: Assets/InteractiveSnow/Materials/NormCalcTest.mat
+  artifactKey: Guid(d5b05f347c75c7e409123de49f6bbf5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Materials/NormCalcTest.mat using Guid(d5b05f347c75c7e409123de49f6bbf5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '754959ea1808d12d6ac5792250725134') in 0.050195 seconds
+  Import took 0.057414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.855840 seconds.
+  path: Assets/InteractiveSnow/Materials/NormCal.shadergraph
+  artifactKey: Guid(9c6e1508436ffd648b573a9fd3996597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Materials/NormCal.shadergraph using Guid(9c6e1508436ffd648b573a9fd3996597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59abc056d5b6a0d47004399181568858') in 0.004899 seconds
+  Import took 0.013136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 99.830290 seconds.
+  path: Assets/InteractiveSnow/Materials/NormCal.shadergraph
+  artifactKey: Guid(9c6e1508436ffd648b573a9fd3996597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Materials/NormCal.shadergraph using Guid(9c6e1508436ffd648b573a9fd3996597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dc629a967b13ed1d492204e33805408') in 0.007837 seconds
+  Import took 0.022704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.244967 seconds.
+  path: Assets/InteractiveSnow/Materials/NormCalcTest.mat
+  artifactKey: Guid(d5b05f347c75c7e409123de49f6bbf5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Materials/NormCalcTest.mat using Guid(d5b05f347c75c7e409123de49f6bbf5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fad50b509857576e832a882f851bcfa8') in 0.052182 seconds
+  Import took 0.059681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 488.917743 seconds.
+  path: Assets/InteractiveSnow/Materials/NormCal.shadergraph
+  artifactKey: Guid(9c6e1508436ffd648b573a9fd3996597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Materials/NormCal.shadergraph using Guid(9c6e1508436ffd648b573a9fd3996597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0a290404938f0c983170b8be97be2ba') in 0.006893 seconds
+  Import took 0.014264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7116.135469 seconds.
+  path: Assets/InteractiveSnow/Materials/InteractiveSnow.mat
+  artifactKey: Guid(c9642541043d40044990e12d12668516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Materials/InteractiveSnow.mat using Guid(c9642541043d40044990e12d12668516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7f4d8b701582c9b229bbb32642bc985') in 0.252732 seconds
+  Import took 0.307988 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002579 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.828 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for pixel shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for domain shader [0x80070057]
+D3D shader create error for domain shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3212 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 240.6 MB.
+System memory in use after: 240.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 4123.
+Total: 3.793700 ms (FindLiveObjects: 0.424900 ms CreateObjectMapping: 0.229600 ms MarkObjects: 3.054000 ms  DeleteObjects: 0.083100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001850 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.217 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for pixel shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for domain shader [0x80070057]
+D3D shader create error for domain shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3200 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 240.2 MB.
+System memory in use after: 240.4 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 4125.
+Total: 2.549300 ms (FindLiveObjects: 0.335800 ms CreateObjectMapping: 0.165600 ms MarkObjects: 1.989100 ms  DeleteObjects: 0.057400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 209.716511 seconds.
+  path: Assets/InteractiveSnow/Materials/InteractiveSnow.mat
+  artifactKey: Guid(c9642541043d40044990e12d12668516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Materials/InteractiveSnow.mat using Guid(c9642541043d40044990e12d12668516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67e2dae3f6a2a677e4cfa382117ed7b4') in 7.004845 seconds
+  Import took 7.012247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.292861 seconds.
+  path: Assets/InteractiveSnow/Materials/InteractiveSnow.mat
+  artifactKey: Guid(c9642541043d40044990e12d12668516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Materials/InteractiveSnow.mat using Guid(c9642541043d40044990e12d12668516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67e2dae3f6a2a677e4cfa382117ed7b4') in 0.046784 seconds
+  Import took 0.053142 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001839 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.266 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for pixel shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for domain shader [0x80070057]
+D3D shader create error for domain shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3200 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 240.6 MB.
+System memory in use after: 240.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 4229.
+Total: 2.947300 ms (FindLiveObjects: 0.355800 ms CreateObjectMapping: 0.172200 ms MarkObjects: 2.363000 ms  DeleteObjects: 0.055300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 465.908862 seconds.
+  path: Assets/InteractiveSnow/Materials/InteractiveSnow.mat
+  artifactKey: Guid(c9642541043d40044990e12d12668516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Materials/InteractiveSnow.mat using Guid(c9642541043d40044990e12d12668516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fa6d8dc096181efc96ca2a58712b20b') in 0.682761 seconds
+  Import took 0.689776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.568057 seconds.
+  path: Assets/InteractiveSnow/Materials/InteractiveSnow.mat
+  artifactKey: Guid(c9642541043d40044990e12d12668516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Materials/InteractiveSnow.mat using Guid(c9642541043d40044990e12d12668516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '522dcf170e23531e5c1bd7d844849f54') in 0.051286 seconds
+  Import took 0.057385 seconds .
+

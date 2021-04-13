@@ -2273,10 +2273,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: SnowSimulation
       objectReference: {fileID: 0}
-    - target: {fileID: 3088247917588660869, guid: b99429b2f69036241a55fc1f77d5b860, type: 3}
-      propertyPath: recoveryTime
-      value: 0.005
-      objectReference: {fileID: 0}
     - target: {fileID: 3088247917588660870, guid: b99429b2f69036241a55fc1f77d5b860, type: 3}
       propertyPath: m_RootOrder
       value: 1

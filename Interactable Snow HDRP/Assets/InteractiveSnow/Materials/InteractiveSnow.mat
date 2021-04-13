@@ -154,7 +154,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Boolean_eabc4e431e964c55987ed55bbeaa25ac: 0
+    - Boolean_eabc4e431e964c55987ed55bbeaa25ac: 1
     - DiffusionProfile_ddad268da9a740738bff1ce27d78444a: 2.0236452
     - Vector1_173ee3b1764d417bb1917bb61da3a029: 4
     - Vector1_1b60fea3a6244c8dbe5f4f275c1e5379: 0.5

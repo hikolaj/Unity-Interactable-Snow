@@ -1,0 +1,443 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.6f1 (8a2143876886) revision 9052483'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 18363.778; Version 1909; 64bit' Language: 'en' Physical Memory: 8083 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Mikowhy/Documents/Unity-Interactable-Snow/Interactable Snow HDRP
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61318
+Successfully changed project path to: C:/Users/Mikowhy/Documents/Unity-Interactable-Snow/Interactable Snow HDRP
+C:/Users/Mikowhy/Documents/Unity-Interactable-Snow/Interactable Snow HDRP
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 88.05 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.6f1 (8a2143876886)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Mikowhy/Documents/Unity-Interactable-Snow/Interactable Snow HDRP/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 660 (ID=0x11c0)
+    Vendor:   
+    VRAM:     1998 MB
+    Driver:   26.21.14.4274
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56812
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001800 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 78.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.933 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001563 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 75.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.311 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for pixel shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for domain shader [0x80070057]
+D3D shader create error for domain shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3479 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 242.5 MB.
+System memory in use after: 242.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3945.
+Total: 3.481100 ms (FindLiveObjects: 0.422400 ms CreateObjectMapping: 0.213100 ms MarkObjects: 2.745800 ms  DeleteObjects: 0.098300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/InteractiveSnow/InteractiveSnowDemo.unity
+  artifactKey: Guid(132f52890d98f894b82744d5dfbe0e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/InteractiveSnowDemo.unity using Guid(132f52890d98f894b82744d5dfbe0e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22fcf5db83beb6b36886be1cc5efdca6') in 0.011506 seconds
+  Import took 0.017097 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001461 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.042 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for pixel shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for domain shader [0x80070057]
+D3D shader create error for domain shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3200 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 229.8 MB.
+System memory in use after: 230.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3947.
+Total: 2.928700 ms (FindLiveObjects: 0.405600 ms CreateObjectMapping: 0.197300 ms MarkObjects: 2.246600 ms  DeleteObjects: 0.077400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001441 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.064 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for pixel shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for domain shader [0x80070057]
+D3D shader create error for domain shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3200 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 229.8 MB.
+System memory in use after: 230.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3949.
+Total: 3.504900 ms (FindLiveObjects: 0.438100 ms CreateObjectMapping: 0.251200 ms MarkObjects: 2.735700 ms  DeleteObjects: 0.078300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001450 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.087 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for pixel shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for domain shader [0x80070057]
+D3D shader create error for domain shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3200 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 229.9 MB.
+System memory in use after: 230.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3951.
+Total: 2.772200 ms (FindLiveObjects: 0.360200 ms CreateObjectMapping: 0.205700 ms MarkObjects: 2.123400 ms  DeleteObjects: 0.081400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001528 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.086 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for pixel shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for domain shader [0x80070057]
+D3D shader create error for domain shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3200 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 229.9 MB.
+System memory in use after: 230.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3953.
+Total: 2.928200 ms (FindLiveObjects: 0.367800 ms CreateObjectMapping: 0.265300 ms MarkObjects: 2.218000 ms  DeleteObjects: 0.075500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001618 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.073 seconds
+Platform modules already initialized, skipping
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for pixel shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for domain shader [0x80070057]
+D3D shader create error for domain shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3200 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 229.9 MB.
+System memory in use after: 230.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3955.
+Total: 7.072300 ms (FindLiveObjects: 1.271200 ms CreateObjectMapping: 0.383700 ms MarkObjects: 5.338500 ms  DeleteObjects: 0.076900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4002.421643 seconds.
+  path: Assets/InteractiveSnow/Materials
+  artifactKey: Guid(dc757351abf2ff347a8f8f1ee0b8cd66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Materials using Guid(dc757351abf2ff347a8f8f1ee0b8cd66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c52fbb234ad4776377d069d60318f159') in 0.009069 seconds
+  Import took 0.020687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041839 seconds.
+  path: Assets/InteractiveSnow/Materials/InteractiveSnow.mat
+  artifactKey: Guid(c9642541043d40044990e12d12668516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Materials/InteractiveSnow.mat using Guid(c9642541043d40044990e12d12668516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '201d5c70cc58261751a0eded449ebe89') in 0.875742 seconds
+  Import took 0.884371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/InteractiveSnow/Materials/TestObject.mat
+  artifactKey: Guid(076027a6373c1314284043d13d2bd4e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Materials/TestObject.mat using Guid(076027a6373c1314284043d13d2bd4e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6813ac1ad165cc3e87dfb7bf6d7bbb69') in 0.070149 seconds
+  Import took 0.076541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.721310 seconds.
+  path: Assets/InteractiveSnow/Materials/NormalCalculationTest.mat
+  artifactKey: Guid(562d068929da1514688084290ed66a88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Materials/NormalCalculationTest.mat using Guid(562d068929da1514688084290ed66a88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '055736ef0677b39cdaadc285f2bd9c8b') in 0.049503 seconds
+  Import took 0.056789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.393830 seconds.
+  path: Assets/InteractiveSnow/Shaders
+  artifactKey: Guid(2388cb7c669102742b84cd038a2fd9f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Shaders using Guid(2388cb7c669102742b84cd038a2fd9f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0055c1efa5f1ba85cd7063ead7a7b546') in 0.002273 seconds
+  Import took 0.009054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.111664 seconds.
+  path: Assets/InteractiveSnow/Shaders/DeformSnowOnATerrain.shadersubgraph
+  artifactKey: Guid(43349ade89de66541bd8995540e6dac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Shaders/DeformSnowOnATerrain.shadersubgraph using Guid(43349ade89de66541bd8995540e6dac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f19abb7ce1cf170197cf8c0fe1ac519') in 0.009890 seconds
+  Import took 0.016558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/InteractiveSnow/Shaders/NewNormal.shadersubgraph
+  artifactKey: Guid(fda59906ccc82d044a96d6ea5e2782a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Shaders/NewNormal.shadersubgraph using Guid(fda59906ccc82d044a96d6ea5e2782a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4c13a59e72d1765421df93648ecf527') in 0.002497 seconds
+  Import took 0.007902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/InteractiveSnow/Shaders/SnowTerrain.shadersubgraph
+  artifactKey: Guid(a904e40502119d74cb8ca3cae832ce56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Shaders/SnowTerrain.shadersubgraph using Guid(a904e40502119d74cb8ca3cae832ce56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0933fab1141da564ca52f88f78e1774') in 0.004158 seconds
+  Import took 0.011377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/InteractiveSnow/Shaders/SnowNoises.shadersubgraph
+  artifactKey: Guid(9522b1b35f6d56c4288baf089473ff12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Shaders/SnowNoises.shadersubgraph using Guid(9522b1b35f6d56c4288baf089473ff12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96803bb05d3779ec46991d32aa1674d8') in 0.002667 seconds
+  Import took 0.008175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/InteractiveSnow/Shaders/Neighbors.shadersubgraph
+  artifactKey: Guid(40b76141857cbd54fb80c9a90ecdd984) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Shaders/Neighbors.shadersubgraph using Guid(40b76141857cbd54fb80c9a90ecdd984) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9744e6a8d7a622643928935acbbb1a24') in 0.003737 seconds
+  Import took 0.012690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.851885 seconds.
+  path: Assets/InteractiveSnow/Shaders/NormalCalcTest.shadergraph
+  artifactKey: Guid(05c4eae0fe335574693efca27cf2c042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Shaders/NormalCalcTest.shadergraph using Guid(05c4eae0fe335574693efca27cf2c042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74b9d5eac8db2b159471abf8cb1657c1') in 0.009867 seconds
+  Import took 0.017126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000783 seconds.
+  path: Assets/InteractiveSnow/Shaders/NormalCalcTest.shadergraph
+  artifactKey: Guid(05c4eae0fe335574693efca27cf2c042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Shaders/NormalCalcTest.shadergraph using Guid(05c4eae0fe335574693efca27cf2c042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74b9d5eac8db2b159471abf8cb1657c1') in 0.007097 seconds
+  Import took 0.013526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 135.585987 seconds.
+  path: Assets/InteractiveSnow/Shaders/NormalCalcTest.shadergraph
+  artifactKey: Guid(05c4eae0fe335574693efca27cf2c042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Shaders/NormalCalcTest.shadergraph using Guid(05c4eae0fe335574693efca27cf2c042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8ff3e9cfa77bec0773a78506d66e529') in 0.007247 seconds
+  Import took 0.014605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003512 seconds.
+  path: Assets/InteractiveSnow/Shaders/NormalCalcTest.shadergraph
+  artifactKey: Guid(05c4eae0fe335574693efca27cf2c042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Shaders/NormalCalcTest.shadergraph using Guid(05c4eae0fe335574693efca27cf2c042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8ff3e9cfa77bec0773a78506d66e529') in 0.007576 seconds
+  Import took 0.014528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.419395 seconds.
+  path: Assets/InteractiveSnow/Shaders/NormalCalcTest.shadergraph
+  artifactKey: Guid(05c4eae0fe335574693efca27cf2c042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Shaders/NormalCalcTest.shadergraph using Guid(05c4eae0fe335574693efca27cf2c042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '299aca453155abb5c5e0cdb779828b4a') in 0.004592 seconds
+  Import took 0.015161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.279003 seconds.
+  path: Assets/InteractiveSnow/Shaders/NormalCalcTest.shadergraph
+  artifactKey: Guid(05c4eae0fe335574693efca27cf2c042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Shaders/NormalCalcTest.shadergraph using Guid(05c4eae0fe335574693efca27cf2c042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48b5797d1ebe0ef02fa288e32cc931de') in 0.006959 seconds
+  Import took 0.014227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.762040 seconds.
+  path: Assets/InteractiveSnow/Shaders/NormalCalcTest.shadergraph
+  artifactKey: Guid(05c4eae0fe335574693efca27cf2c042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Shaders/NormalCalcTest.shadergraph using Guid(05c4eae0fe335574693efca27cf2c042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90dfde6028f648c483ed170aec2896f3') in 0.004977 seconds
+  Import took 0.011696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.250120 seconds.
+  path: Assets/InteractiveSnow/Shaders/NormalCalcTest.shadergraph
+  artifactKey: Guid(05c4eae0fe335574693efca27cf2c042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Shaders/NormalCalcTest.shadergraph using Guid(05c4eae0fe335574693efca27cf2c042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb4ce8f7284000df6b03d40a64c4566f') in 0.004407 seconds
+  Import took 0.012551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.558358 seconds.
+  path: Assets/InteractiveSnow/Shaders/NormalCalcTest.shadergraph
+  artifactKey: Guid(05c4eae0fe335574693efca27cf2c042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Shaders/NormalCalcTest.shadergraph using Guid(05c4eae0fe335574693efca27cf2c042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ba1a5a1406440735394c80acb024cc4') in 0.004626 seconds
+  Import took 0.011062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.170858 seconds.
+  path: Assets/InteractiveSnow/Shaders/NormalCalcTest.shadergraph
+  artifactKey: Guid(05c4eae0fe335574693efca27cf2c042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Shaders/NormalCalcTest.shadergraph using Guid(05c4eae0fe335574693efca27cf2c042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f16ebf44f3aa4f7e09149cb6e4276c55') in 0.004773 seconds
+  Import took 0.011833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.772692 seconds.
+  path: Assets/InteractiveSnow/Shaders/NormalCalcTest.shadergraph
+  artifactKey: Guid(05c4eae0fe335574693efca27cf2c042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Shaders/NormalCalcTest.shadergraph using Guid(05c4eae0fe335574693efca27cf2c042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '162fbace6fd43e73271186128ac98194') in 0.004881 seconds
+  Import took 0.012635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.638310 seconds.
+  path: Assets/InteractiveSnow/Shaders/NormalCalcTest.shadergraph
+  artifactKey: Guid(05c4eae0fe335574693efca27cf2c042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Shaders/NormalCalcTest.shadergraph using Guid(05c4eae0fe335574693efca27cf2c042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51ebaa4290477c1c3764b652caad6f57') in 0.004458 seconds
+  Import took 0.012566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 853.477765 seconds.
+  path: Assets/InteractiveSnow/Shaders/SnowTerrain.shadersubgraph
+  artifactKey: Guid(a904e40502119d74cb8ca3cae832ce56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Shaders/SnowTerrain.shadersubgraph using Guid(a904e40502119d74cb8ca3cae832ce56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34063415a794ce53b5d510ff9984d0c2') in 0.003363 seconds
+  Import took 0.010390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 610.032980 seconds.
+  path: Assets/InteractiveSnow/Shaders/NormalCalcTest.shadergraph
+  artifactKey: Guid(05c4eae0fe335574693efca27cf2c042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InteractiveSnow/Shaders/NormalCalcTest.shadergraph using Guid(05c4eae0fe335574693efca27cf2c042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33ef7b06e42a125608d510756a2ac989') in 0.005744 seconds
+  Import took 0.012469 seconds .
+

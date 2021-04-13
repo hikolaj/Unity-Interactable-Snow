@@ -319,6 +319,20 @@
         {
             "m_OutputSlot": {
                 "m_Node": {
+                    "m_Id": "ca4e7a79a4af4cd3be4c16fa154689dc"
+                },
+                "m_SlotId": 5
+            },
+            "m_InputSlot": {
+                "m_Node": {
+                    "m_Id": "9fa50b5d2fde4f8c82e9f95cdab5299e"
+                },
+                "m_SlotId": 3
+            }
+        },
+        {
+            "m_OutputSlot": {
+                "m_Node": {
                     "m_Id": "cf690c6452224f45b38b02723bc1a816"
                 },
                 "m_SlotId": 2
@@ -1276,6 +1290,21 @@
 {
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
+    "m_ObjectId": "77806462938c4404b7c00bd4b12fb818",
+    "m_Id": 2,
+    "m_DisplayName": "MaskingDepth",
+    "m_SlotType": 0,
+    "m_Hidden": false,
+    "m_ShaderOutputName": "MaskingDepth",
+    "m_StageCapability": 3,
+    "m_Value": 0.0,
+    "m_DefaultValue": 0.0,
+    "m_Labels": []
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "80417f58aa514bb99a37495502cbc8ff",
     "m_Id": 0,
     "m_DisplayName": "TerrainHeight",
@@ -1515,7 +1544,10 @@
             "m_Id": "439c0971c14d466c89a13b044b88c8c5"
         },
         {
-            "m_Id": "f8292df7dc7949b7b9c055e7cb154443"
+            "m_Id": "77806462938c4404b7c00bd4b12fb818"
+        },
+        {
+            "m_Id": "cd2159a4a50944259c042027ac417fbd"
         }
     ],
     "synonyms": [],
@@ -2039,6 +2071,21 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
+    "m_ObjectId": "cd2159a4a50944259c042027ac417fbd",
+    "m_Id": 3,
+    "m_DisplayName": "MaskValue",
+    "m_SlotType": 0,
+    "m_Hidden": false,
+    "m_ShaderOutputName": "MaskValue",
+    "m_StageCapability": 3,
+    "m_Value": 0.0,
+    "m_DefaultValue": 0.0,
+    "m_Labels": []
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.SubtractNode",
     "m_ObjectId": "cf690c6452224f45b38b02723bc1a816",
     "m_Group": {
@@ -2191,26 +2238,11 @@
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.GroupData",
     "m_ObjectId": "ec8f12e0ae6e4fdda72e50edda73faba",
-    "m_Title": "Terrain Localization",
+    "m_Title": "Terrain Height Localization",
     "m_Position": {
         "x": -1022.0,
         "y": -394.00006103515627
     }
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
-    "m_ObjectId": "f8292df7dc7949b7b9c055e7cb154443",
-    "m_Id": 2,
-    "m_DisplayName": "MaskingValue",
-    "m_SlotType": 0,
-    "m_Hidden": false,
-    "m_ShaderOutputName": "MaskingValue",
-    "m_StageCapability": 3,
-    "m_Value": 0.0,
-    "m_DefaultValue": 0.0,
-    "m_Labels": []
 }
 
 {
